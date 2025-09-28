@@ -1,0 +1,6 @@
+streamlit==1.27.0
+pandas>=2.2.3     # first version supporting Python 3.13
+pillow>=10.3.0    # supports Python 3.13
+numpy>=1.26.0
+scikit-learn
+folium
